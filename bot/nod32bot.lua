@@ -243,9 +243,10 @@ function create_config( )
     "filterworld",
     "server_manager",
     "time",
-    "version"
+    "version",
+    "SuperGroup",
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {190840223,191790308,144355506,115271025},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
